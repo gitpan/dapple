@@ -3,7 +3,7 @@ use ExtUtils::MakeMaker;
 # the contents of the Makefile that is written.
 WriteMakefile(
     'NAME'      => 'dapple',
-    'VERSION'	=> 0.2,
+    'VERSION'	=> 0.21,
     'PREREQ_PM' => { LWP => 0 }, 
 
     ## Add these new keywords supported since 5.005

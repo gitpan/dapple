@@ -22,6 +22,9 @@ To install these modules, follow these steps:
   % make test
   % make install
 
+Be sure to check out examples/itshell, a commandline client for
+downloading from iTunes servers.
+
 This code was originally written by Nathan Torkington, based on DAAP
 reverse-engineering work by Todd Larason.  Other contributors are
 listed in the AUTHORS file.
