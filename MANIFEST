@@ -1,0 +1,12 @@
+Changes
+lib/Net/DAAP/DMAP.pm
+lib/Net/DAAP/Client.pm
+Makefile.PL
+MANIFEST
+README
+AUTHORS
+t/1.t
+LEGAL
+TODO
+examples/dmap.dumper
+examples/itshell
